@@ -17,3 +17,4 @@ https://moiseyalaev.com
 
 
 Note: Since my work github is seperate from my personal, the majority of my activity is on moisey@secureframe.com
+- There are breaks in February and July due to paternity leave
