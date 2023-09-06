@@ -7,7 +7,7 @@
 Automation with APIs in the security compliance space.
 
 🌱 I’m currently learning
-LLMs and additional web dev frameworks through my personal project: moisey's meals
+LLMs and additional web dev frameworks through my personal project: Moisey's Meals
 
 📫 How to reach me
 moiseyalaev@gmail.com
@@ -15,6 +15,5 @@ moiseyalaev@gmail.com
 💬 More about me
 https://moiseyalaev.com
 
-
-Note: Since my work github is seperate from my personal, the majority of my activity is on moisey@secureframe.com
+Note: Since my work GitHub is separate from my personal github, the majority of my activity is on moisey@secureframe.com (screenshot linked in this repo)
 - There are breaks in February and July due to paternity leave
