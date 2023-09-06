@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on
+Automation with APIs in the security compliance space.
+
+🌱 I’m currently learning
+LLMs and additional web dev frameworks through my personal project: moisey's meals
+
+📫 How to reach me
+moiseyalaev@gmail.com
+
+💬 More about me
+https://moiseyalaev.com
+
+
+Note: Since my work github is seperate from my personal, the majority of my activity is on moisey@secureframe.com
 -->
