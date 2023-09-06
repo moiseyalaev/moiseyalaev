@@ -4,7 +4,7 @@
 **moiseyalaev/moiseyalaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 🔭 I’m currently working on
-Automation with APIs in the security compliance space.
+Web development, Automating with APIs in the security compliance space with a focus on backend development,
 
 🌱 I’m currently learning
 LLMs and additional web dev frameworks through my personal project: Moisey's Meals
