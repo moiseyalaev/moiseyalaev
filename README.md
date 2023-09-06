@@ -2,9 +2,7 @@
 
 <!--
 **moiseyalaev/moiseyalaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
 🔭 I’m currently working on
 Automation with APIs in the security compliance space.
 
@@ -19,4 +17,3 @@ https://moiseyalaev.com
 
 
 Note: Since my work github is seperate from my personal, the majority of my activity is on moisey@secureframe.com
--->
