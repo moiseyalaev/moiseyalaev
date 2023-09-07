@@ -15,5 +15,4 @@ moiseyalaev@gmail.com
 💬 More about me
 https://moiseyalaev.com
 
-Note: Since my work GitHub is separate from my personal github, the majority of my activity is on moisey@secureframe.com (screenshot linked in this repo)
-- There are breaks in February and July due to paternity leave
+Note: Since my work GitHub is separate from my personal github, the majority of my activity is on moisey@secureframe.com which has 250+ commits last year (screenshot linked in this repo). Note that the breaks in February and July due to paternity leave.
